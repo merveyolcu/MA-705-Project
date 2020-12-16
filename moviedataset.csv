@@ -1,0 +1,501 @@
+,Movie_names,Release_dates,Ratings,Meta_scores,User_scores
+0,Citizen Kane,"September 4, 1941", | Approved,100,8.5
+1,The Godfather,"March 11, 1972", | R,100,9.2
+2,Rear Window,"September 1, 1954", | TV-G,100,8.8
+3,Casablanca,"January 23, 1943", | TV-PG,100,8.9
+4,Boyhood,"July 11, 2014", | R,100,7.6
+5,Three Colors: Red,"November 23, 1994", | R,100,8.6
+6,Vertigo,"May 28, 1958", | PG,100,8.8
+7,Notorious,"September 6, 1946", | Approved,100,7.9
+8,Singin' in the Rain,"April 11, 1952", | G,99,8.8
+9,City Lights,"March 7, 1931", | Passed,99,9.0
+10,Moonlight,"October 21, 2016", | Not Rated,99,7.1
+11,Intolerance,"September 5, 1916", | Not Rated,99,9.0
+12,Pinocchio,"February 23, 1940", | Passed,99,8.2
+13,Touch of Evil,"February 1, 1958", | PG-13,99,8.4
+14,The Treasure of the Sierra Madre,"January 24, 1948", | TV-PG,98,8.5
+15,Pan's Labyrinth,"December 29, 2006", | R,98,8.7
+16,Some Like It Hot,"March 29, 1959", | Approved,98,8.3
+17,North by Northwest,"August 6, 1959", | TV-G,98,8.2
+18,Hoop Dreams,"October 14, 1994", | PG-13,98,8.1
+19,Rashomon,"December 26, 1951", | Not Rated,98,8.6
+20,All About Eve,"October 27, 1950", | TV-PG,98,8.8
+21,Jules and Jim,"April 23, 1962", | Not Rated,97,8.3
+22,The Wild Bunch,"June 18, 1969", | R,97,8.0
+23,My Left Foot,"March 30, 1990", | R,97,8.5
+24,The Third Man,"September 3, 1949", | Approved,97,8.4
+25,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964", | GP,97,8.3
+26,Nomadland,"December 4, 2020", | R,97,8.2
+27,Gone with the Wind,"January 17, 1940", | TV-PG,97,8.5
+28,"4 Months, 3 Weeks and 2 Days","January 23, 2008", | Not Rated,97,8.0
+29,Psycho,"September 8, 1960", | M,97,9.1
+30,Battleship Potemkin,"December 5, 1926", | Not Rated,97,8.8
+31,A Streetcar Named Desire,"September 19, 1951", | M/PG,97,8.4
+32,American Graffiti,"August 11, 1973", | PG,97,7.8
+33,Dumbo,"October 31, 1941", | Approved,96,8.0
+34,Roma,"November 21, 2018", | Not Rated,96,7.8
+35,Ran,"December 20, 1985", | R,96,8.5
+36,The Shop Around the Corner,"January 12, 1940", | Passed,96,8.5
+37,12 Angry Men,"April 1, 1957", | TV-PG,96,9.3
+38,Manchester by the Sea,"November 18, 2016", | R,96,8.2
+39,Rosemary's Baby,"June 12, 1968", | Approved,96,8.2
+40,The Maltese Falcon,"October 18, 1941", | TV-PG,96,7.9
+41,12 Years a Slave,"October 18, 2013", | R,96,8.0
+42,Killer of Sheep,"March 30, 2007", | Not Rated,96,6.9
+43,Rocks,TBA, | Not Rated,96,tbd
+44,Nashville,"June 11, 1975", | R,96,8.8
+45,Ratatouille,"June 29, 2007", | G,96,8.6
+46,Parasite,"October 11, 2019", | Not Rated,96,8.9
+47,Don't Look Now,"December 9, 1973", | R,96,8.6
+48,The Grapes of Wrath,"March 15, 1940", | Approved,96,8.9
+49,Children of Paradise (1945),"March 9, 2012", | Not Rated,96,9.0
+50,Mean Streets,"October 14, 1973", | R,96,7.7
+51,The Lady Eve,"March 21, 1941", | Passed,96,7.0
+52,Gravity,"October 4, 2013", | PG-13,96,7.8
+53,Fantasia,"November 13, 1940", | Approved,96,8.5
+54,Spirited Away,"September 20, 2002", | PG,96,9.0
+55,Beauty and the Beast,"November 22, 1991", | G,95,8.6
+56,Small Axe: Lovers Rock,"November 27, 2020", | Not Rated,95,6.2
+57,Toy Story,"November 22, 1995", | TV-G,95,9.0
+58,The Bride of Frankenstein,"May 6, 1935", | TV-PG,95,8.6
+59,The Social Network,"October 1, 2010", | PG-13,95,8.2
+60,My Fair Lady,"December 25, 1964", | G,95,8.5
+61,Portrait of a Lady on Fire,"December 6, 2019", | R,95,8.7
+62,I Am Not Your Negro,"December 9, 2016", | PG-13,95,5.4
+63,Woodstock,"March 26, 1970", | R,95,tbd
+64,Double Indemnity,"July 6, 1944", | Passed,95,8.4
+65,Collective,"November 20, 2020", | Not Rated,95,7.6
+66,Snow White and the Seven Dwarfs,"February 4, 1938", | G,95,8.2
+67,The Hurt Locker,"June 26, 2009", | R,95,7.3
+68,Anatomy of a Murder,"July 1, 1959", | TV-PG,95,8.3
+69,Zero Dark Thirty,"December 19, 2012", | R,95,6.9
+70,A Separation,"December 30, 2011", | PG-13,95,8.9
+71,WALL-E,"June 27, 2008", | G,95,8.9
+72,Carol,"November 20, 2015", | R,94,8.0
+73,Before Midnight,"May 24, 2013", | R,94,8.3
+74,Amour,"December 19, 2012", | PG-13,94,8.1
+75,Dunkirk,"July 21, 2017", | PG-13,94,8.3
+76,The Man Who Shot Liberty Valance,"April 22, 1962", | Approved,94,8.6
+77,The Searchers,"May 26, 1956", | Passed,94,7.6
+78,45 Years,"December 23, 2015", | Not Rated,94,7.4
+79,Taxi Driver,"February 7, 1976", | R,94,7.5
+80,Pulp Fiction,"October 14, 1994", | R,94,9.1
+81,The Manchurian Candidate,"October 24, 1962", | Approved,94,8.2
+82,Mr. Turner,"December 19, 2014", | R,94,6.9
+83,The Irishman,"November 1, 2019", | R,94,8.1
+84,Grave of the Fireflies (1988),"July 26, 1989", | TV-14,94,9.3
+85,The Wild Child,"September 11, 1970", | G,94,tbd
+86,Amazing Grace,"November 23, 2018", | G,94,8.4
+87,Shadow of a Doubt,"January 15, 1943", | TV-PG,94,8.5
+88,Inside Out,"June 19, 2015", | PG,94,8.7
+89,Sideways,"October 22, 2004", | R,94,7.1
+90,Schindler's List,"December 15, 1993", | R,94,8.8
+91,Meet Me in St. Louis,"January 1, 1945", | Passed,94,tbd
+92,The Apartment,"June 15, 1960", | TV-PG,94,9.1
+93,Apocalypse Now,"August 15, 1979", | R,94,8.9
+94,The Gunfighter,"June 23, 1950", | TV-PG,94,7.9
+95,We Were Here,"September 9, 2011", | Not Rated,94,6.9
+96,Lady Bird,"November 3, 2017", | R,94,7.6
+97,Chimes at Midnight,"March 17, 1967", | Not Rated,94,tbd
+98,The Lord of the Rings: The Return of the King,"December 17, 2003", | PG-13,94,9.1
+99,Carlos,"October 15, 2010", | Not Rated,94,7.9
+100,Bringing Up Baby,"February 18, 1938", | TV-G,91,7.6
+101,No Country for Old Men,"November 9, 2007", | R,91,7.8
+102,The Gatekeepers,"February 1, 2013", | PG-13,91,6.7
+103,Nostalgia for the Light,"March 18, 2011", | Not Rated,91,7.9
+104,David Copperfield,"January 18, 1935", | Passed,91,tbd
+105,Saving Private Ryan,"July 24, 1998", | TV-MA,91,8.9
+106,After Hours,"September 13, 1985", | R,90,7.9
+107,Her,"December 18, 2013", | R,90,8.6
+108,The Crying Game,"November 25, 1992", | R,90,7.7
+109,Great Expectations,"May 22, 1947", | Approved,90,tbd
+110,Burning,"October 26, 2018", | Not Rated,90,7.8
+111,Winter's Bone,"June 11, 2010", | R,90,7.3
+112,Gett: The Trial of Viviane Amsalem,"February 13, 2015", | Not Rated,90,7.6
+113,I Called Him Morgan,"March 24, 2017", | Not Rated,90,6.7
+114,Close Encounters of the Third Kind,"November 16, 1977", | PG,90,7.8
+115,The Godfather: Part II,"December 12, 1974", | R,90,9.0
+116,The Hustler,"September 25, 1961", | TV-PG,90,8.9
+117,L.A. Confidential,"September 19, 1997", | TV-MA,90,8.9
+118,Bloody Sunday,"October 4, 2002", | R,90,8.5
+119,My Voyage to Italy,"October 19, 2001", | PG-13,90,7.1
+120,Phantom Thread,"December 25, 2017", | R,90,7.7
+121,Gunda,"December 11, 2020", | G,90,tbd
+122,Goodfellas,"September 1, 1990", | R,90,8.9
+123,Hamilton,"July 3, 2020", | PG-13,90,7.8
+124,Paths of the Soul,"May 13, 2016", | Not Rated,90,5.3
+125,It's Such a Beautiful Day,"October 5, 2012", | Not Rated,90,8.9
+126,My Perestroika,"March 23, 2011", | Not Rated,90,7.3
+127,This Is Not a Film,"March 2, 2012", | Not Rated,90,6.3
+128,The Birds,"March 29, 1963", | PG-13,90,8.3
+129,Finding Nemo,"May 30, 2003", | G,90,8.7
+130,Topsy-Turvy,"December 17, 1999", | R,90,7.9
+131,Samurai Rebellion,"December 1, 1967", | Not Rated,90,tbd
+132,King Kong,"April 7, 1933", | Passed,90,8.4
+133,The Incredibles,"November 5, 2004", | PG,90,8.8
+134,Before Sunset,"July 2, 2004", | R,90,8.7
+135,Being John Malkovich,"October 29, 1999", | R,90,8.8
+136,A Prophet,"February 26, 2010", | R,90,8.5
+137,Hard to Be a God,"January 30, 2015", | Not Rated,90,5.4
+138,Almost Famous,"September 13, 2000", | Unrated,90,6.9
+139,Paths of Glory,"December 25, 1957", | TV-14,90,9.0
+140,Cold War,"December 21, 2018", | R,90,7.9
+141,Big Men,"March 14, 2014", | Not Rated,90,7.4
+142,American Splendor,"August 15, 2003", | TV-MA,90,7.9
+143,Hannah and Her Sisters,"February 1, 1986", | PG-13,90,8.0
+144,The Circus,"January 1, 1929", | G,90,8.5
+145,The Tale,"May 26, 2018", | TV-MA,90,7.2
+146,Gosford Park,"December 26, 2001", | TV-MA,90,7.3
+147,Dirty Harry,"December 23, 1971", | R,90,8.3
+148,The Fits,"June 3, 2016", | Not Rated,90,6.7
+149,Small Axe: Mangrove,"November 20, 2020", | Not Rated,90,6.9
+150,Mad Max: Fury Road,"May 15, 2015", | R,90,8.6
+151,United 93,"April 28, 2006", | R,90,7.6
+152,Capturing the Friedmans,"May 30, 2003", | Not Rated,90,7.9
+153,The Truman Show,"June 5, 1998", | PG,90,7.0
+154,American Hustle,"December 13, 2013", | R,90,7.3
+155,Paterson,"December 28, 2016", | R,90,7.9
+156,Star Wars: Episode IV - A New Hope,"May 25, 1977", | PG,90,8.8
+157,Persepolis,"December 25, 2007", | PG-13,90,8.7
+158,The Age of Innocence,"September 17, 1993", | PG,90,8.0
+159,Minding the Gap,"August 17, 2018", | Not Rated,90,8.2
+160,The Best of Youth,"March 2, 2005", | R,89,8.8
+161,The Overnighters,"October 10, 2014", | PG-13,89,7.5
+162,The Lives of Others,"December 1, 2006", | R,89,8.9
+163,Two-Lane Blacktop,"July 7, 1971", | R,89,tbd
+164,House of Flying Daggers,"December 3, 2004", | PG-13,89,9.1
+165,63 Up,"November 27, 2019", | Not Rated,89,tbd
+166,Treasure Island,"July 19, 1950", | Approved,89,tbd
+167,Lost in Translation,"September 12, 2003", | R,89,7.6
+168,Blue Is the Warmest Color,"October 25, 2013", | NC-17,89,7.8
+169,Searching for Bobby Fischer,"August 11, 1993", | PG,89,8.7
+170,The Human Voice,TBA, | Not Rated,89,tbd
+171,Assault on Precinct 13,"November 5, 1976", | R,89,7.2
+172,Man on Wire,"July 25, 2008", | PG-13,89,8.3
+173,For Sama,"July 26, 2019", | Not Rated,89,7.5
+174,Howards End,"March 13, 1992", | PG,89,8.2
+175,Force of Evil,"March 1, 1949", | Passed,89,tbd
+176,Still Walking,"August 21, 2009", | Passed,89,8.7
+177,Gangs of Wasseypur,"January 16, 2015", | R,89,8.7
+178,The Last Detail,"December 12, 1973", | R,89,7.8
+179,When the Levees Broke: A Requiem in Four Acts,"August 21, 2006", | TV-MA,89,tbd
+180,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,"November 3, 2006", | R,89,7.4
+181,Barry Lyndon,"December 18, 1975", | PG,89,8.8
+182,The Farewell,"July 12, 2019", | Not Rated,89,8.3
+183,Elle,"November 11, 2016", | R,89,7.3
+184,The Tale of The Princess Kaguya,"October 17, 2014", | PG,89,8.6
+185,Uncertain,"March 10, 2017", | Not Rated,89,8.5
+186,"Two Days, One Night","December 24, 2014", | PG-13,89,8.5
+187,National Gallery,"November 5, 2014", | Not Rated,89,tbd
+188,Eighth Grade,"July 13, 2018", | R,89,8.0
+189,A Star Is Born,"October 16, 1954", | Passed,89,8.5
+190,No End in Sight,"July 27, 2007", | Passed,89,8.2
+191,It's a Wonderful Life,"January 7, 1947", | Approved,89,9.2
+192,The Madness of King George,"December 28, 1994", | PG-13,89,7.5
+193,Phoenix,"July 24, 2015", | PG-13,89,7.8
+194,Goodbye Solo,"March 27, 2009", | R,89,7.5
+195,Western,"September 25, 2015", | Not Rated,89,7.1
+196,Stop Making Sense,"October 18, 1984", | Not Rated,89,8.7
+197,Deep Red,"June 11, 1976", | Not Rated,89,8.1
+198,Downhill Racer,"November 7, 1969", | PG,89,8.0
+199,Alien,"June 22, 1979", | R,89,9.0
+200,The Missing Picture,"October 4, 2013", | Not Rated,87,7.5
+201,"I Travel Because I Have to, I Come Back Because I Love You","March 25, 2011", | Not Rated,87,7.6
+202,The Invisible Man,"November 13, 1933", | TV-PG,87,7.1
+203,Scarface,"April 9, 1932", | Passed,87,tbd
+204,Of Men and War,"November 6, 2015", | Not Rated,87,8.3
+205,The Long Goodbye,"March 7, 1973", | R,87,7.8
+206,Imitation of Life,"March 18, 1959", | TV-PG,87,tbd
+207,Pain and Glory,"October 4, 2019", | Not Rated,87,8.0
+208,Genèse (Genesis),"August 23, 2019", | Not Rated,87,tbd
+209,The Farthest,"August 11, 2017", | Not Rated,87,6.7
+210,Gomorrah,"February 13, 2009", | Not Rated,87,7.2
+211,To Be and to Have,"September 19, 2003", | Not Rated,87,7.7
+212,Halloween,"October 25, 1978", | R,87,8.8
+213,Eraserhead,"February 3, 1978", | Not Rated,87,7.9
+214,Medium Cool,"August 27, 1969", | R,87,tbd
+215,Fire at Sea,"October 21, 2016", | Not Rated,87,6.8
+216,The Fugitive,"August 6, 1993", | PG-13,87,8.8
+217,F for Fake,"September 27, 1975", | PG,87,tbd
+218,About Elly (2009),"April 8, 2015", | Not Rated,87,8.7
+219,The Bridge on the River Kwai,"December 14, 1957", | TV-PG,87,8.5
+220,Goldfinger,"January 9, 1965", | GP,87,8.4
+221,One False Move,"May 8, 1992", | R,87,7.6
+222,En el Séptimo Día (On the Seventh Day),"June 8, 2018", | Not Rated,87,tbd
+223,Jane,"October 20, 2017", | PG,87,8.3
+224,Jaws,"June 20, 1975", | PG,87,8.7
+225,We Are the Best!,"May 30, 2014", | Not Rated,87,7.6
+226,Spartacus,"October 19, 1960", | Approved,87,8.4
+227,Back to the Future,"July 3, 1985", | PG,87,9.0
+228,If Beale Street Could Talk,"December 14, 2018", | R,87,7.1
+229,My Journey Through French Cinema,"June 23, 2017", | Not Rated,87,tbd
+230,Wallace & Gromit: The Curse of the Were-Rabbit,"October 5, 2005", | G,87,8.2
+231,The Diary of a Teenage Girl,"August 7, 2015", | R,87,6.5
+232,Elena,"May 18, 2012", | Not Rated,87,7.4
+233,All Is Lost,"October 18, 2013", | PG-13,87,6.7
+234,Hereditary,"June 8, 2018", | R,87,7.2
+235,Listen to Me Marlon,"July 29, 2015", | Not Rated,87,8.3
+236,Gideon's Army,"June 28, 2013", | Not Rated,87,8.5
+237,Serpico (re-release),"August 6, 2004", | R,87,8.5
+238,Maria Full of Grace,"July 16, 2004", | R,87,2.5
+239,Fateless,"January 6, 2006", | R,87,7.6
+240,Happy as Lazzaro,"November 30, 2018", | Not Rated,87,7.9
+241,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,"December 19, 2003", | PG-13,87,8.6
+242,Uncle Boonmee Who Can Recall His Past Lives,"March 4, 2011", | Not Rated,87,7.1
+243,Brokeback Mountain,"December 9, 2005", | R,87,8.3
+244,Cemetery of Splendor,"March 4, 2016", | Not Rated,87,6.5
+245,The Kid with a Bike,"March 16, 2012", | Not Rated,87,7.5
+246,Mutiny on the Bounty,"November 8, 1935", | Passed,87,tbd
+247,Spider-Man: Into the Spider-Verse,"December 14, 2018", | PG,87,8.8
+248,The Wicker Man,"August 7, 1974", | R,87,7.7
+249,Love & Friendship,"May 13, 2016", | Not Rated,87,6.9
+250,Particle Fever,"March 5, 2014", | Not Rated,87,8.1
+251,Tarnation,"October 6, 2004", | Unrated,87,7.1
+252,Murderball,"July 8, 2005", | R,87,8.4
+253,Life Itself,"July 4, 2014", | R,87,8.3
+254,The Shape of Water,"December 1, 2017", | R,87,7.0
+255,Rewind,"May 8, 2020", | Not Rated,87,6.4
+256,Shine,"November 20, 1996", | PG-13,87,8.3
+257,Bisbee '17,"September 5, 2018", | Not Rated,87,4.3
+258,Grizzly Man,"August 12, 2005", | R,87,7.2
+259,Adam's Rib,"November 18, 1949", | Passed,87,tbd
+260,Gregory Crewdson: Brief Encounters,"November 2, 2012", | Not Rated,87,6.7
+261,Moneyball,"September 23, 2011", | PG-13,87,8.0
+262,The Autobiography of Nicolae Ceausescu,"September 9, 2011", | Not Rated,87,tbd
+263,All About My Mother,"November 19, 1999", | R,87,8.5
+264,The English Patient,"November 15, 1996", | R,87,7.4
+265,The Duke of Burgundy,"January 23, 2015", | Not Rated,87,6.9
+266,My Golden Days,"March 18, 2016", | Not Rated,87,6.8
+267,Nebraska,"November 15, 2013", | R,87,8.0
+268,What the Constitution Means to Me,"October 16, 2020", | Not Rated,87,tbd
+269,A Tale of Two Cities,"December 25, 1935", | Passed,87,tbd
+270,Force Majeure,"October 24, 2014", | R,87,7.6
+271,Tampopo,"May 22, 1987", | Not Rated,87,tbd
+272,To the Ends of the Earth,"December 11, 2020", | Not Rated,86,tbd
+273,Blow Out,"July 24, 1981", | R,86,8.0
+274,Diane,"March 29, 2019", | NR,86,7.2
+275,The Magician,"August 27, 1959", | TV-PG,86,tbd
+276,The Thin Man,"May 25, 1934", | Passed,86,tbd
+277,Russian Ark,"November 29, 2002", | Not Rated,86,7.6
+278,Point Blank,"August 31, 1967", | Approved,86,tbd
+279,Wolfwalkers,"November 13, 2020", | PG,86,9.1
+280,Lincoln,"November 9, 2012", | PG-13,86,7.5
+281,The Wolf House,"May 15, 2020", | Not Rated,86,8.6
+282,An Elephant Sitting Still,"March 8, 2019", | Not Rated,86,8.8
+283,Room,"October 16, 2015", | R,86,8.3
+284,The Tillman Story,"August 20, 2010", | R,86,7.3
+285,The Wind Will Carry Us,"July 28, 2000", | R,86,7.6
+286,"sex, lies, and videotape","August 4, 1989", | R,86,7.8
+287,Dog Day Afternoon,"December 25, 1975", | R,86,8.6
+288,To Be or Not to Be,"March 6, 1942", | Passed,86,8.0
+289,Welcome to Chechnya,"June 30, 2020", | Not Rated,86,7.4
+290,Like Water for Chocolate,"May 28, 1993", | R,86,7.7
+291,Ordinary People,"September 18, 1980", | R,86,6.5
+292,Divine Love,"November 13, 2020", | Not Rated,86,8.0
+293,Written on the Wind,"December 25, 1956", | TV-PG,86,tbd
+294,Stand Clear of the Closing Doors,"May 23, 2014", | Not Rated,86,6.8
+295,Dreamcatcher,"March 20, 2015", | Not Rated,86,6.3
+296,Ma Rainey's Black Bottom,"November 25, 2020", | R,86,5.9
+297,They Were Expendable,"December 31, 1945", | Passed,86,tbd
+298,To Die For,"September 27, 1995", | R,86,8.8
+299,The Deer Hunter,"December 8, 1978", | R,86,7.7
+300,Athlete A,"June 24, 2020", | PG-13,85,6.7
+301,Tea with the Dames,"September 21, 2018", | NR,85,7.4
+302,Take Shelter,"September 30, 2011", | R,85,7.8
+303,The Salesman,"January 27, 2017", | Not Rated,85,7.5
+304,The Pianist,"December 27, 2002", | TV-MA,85,7.9
+305,Children Underground,"September 19, 2001", | TV-MA,85,7.6
+306,You Can Count on Me,"November 10, 2000", | R,85,8.5
+307,Boogie Nights,"October 10, 1997", | TV-MA,85,4.6
+308,City of Life and Death,"May 11, 2011", | R,85,7.8
+309,Song of the Sea,"December 19, 2014", | PG,85,8.3
+310,Amy,"July 3, 2015", | Not Rated,85,8.3
+311,The Edge of Heaven,"May 21, 2008", | Not Rated,85,8.7
+312,The Savages,"November 28, 2007", | R,85,7.5
+313,Birds of Passage,"February 13, 2019", | Not Rated,85,7.8
+314,Ilo Ilo,"April 4, 2014", | Not Rated,85,7.8
+315,First Reformed,"May 18, 2018", | Not Rated,85,7.5
+316,Lebanon,"August 6, 2010", | R,85,6.4
+317,The Treasure,"January 8, 2016", | Not Rated,85,7.0
+318,Atlantics,"November 15, 2019", | Not Rated,85,6.3
+319,I Am Another You,"September 27, 2017", | Not Rated,85,tbd
+320,Night Will Fall,"November 21, 2014", | Not Rated,85,7.8
+321,The Endurance,"September 21, 2001", | G,85,8.5
+322,Exit Through the Gift Shop,"April 16, 2010", | R,85,8.1
+323,Girlhood,"January 30, 2015", | Not Rated,85,7.2
+324,In the Mood for Love,"February 2, 2001", | PG,85,7.8
+325,Let's Get Lost,"April 21, 1989", | Not Rated,85,tbd
+326,Offside,"March 23, 2007", | PG,85,7.9
+327,The Ornithologist,"June 23, 2017", | Unrated,85,5.9
+328,El Dorado,"June 7, 1967", | TV-PG,85,7.0
+329,Sleeping Beauty,"January 29, 1959", | Approved,85,8.1
+330,Mona Lisa,"June 13, 1986", | R,85,tbd
+331,Tales of the Grim Sleeper,"December 26, 2014", | Not Rated,85,tbd
+332,Easy Rider,"July 14, 1969", | R,85,7.6
+333,Knocked Up,"June 1, 2007", | R,85,6.7
+334,"Distant Voices, Still Lives","September 11, 1988", | PG-13,85,7.8
+335,Turtles Can Fly,"February 18, 2005", | PG-13,85,8.7
+336,The Departed,"October 6, 2006", | R,85,7.3
+337,April and the Extraordinary World,"March 25, 2016", | PG,85,7.5
+338,Festival Express,"July 30, 2004", | R,85,6.2
+339,"Spring, Summer, Fall, Winter... and Spring","April 2, 2004", | R,85,8.4
+340,An Education,"October 9, 2009", | PG-13,85,7.8
+341,Varda by Agnès,"November 22, 2019", | Not Rated,85,7.0
+342,Tinker Tailor Soldier Spy,"December 9, 2011", | R,85,6.6
+343,Harakiri,"August 4, 1964", | Not Rated,85,8.9
+344,Ash Is Purest White,"March 15, 2019", | Not Rated,85,7.1
+345,Half Nelson,"August 11, 2006", | R,85,7.8
+346,Vincere,"March 19, 2010", | Unrated,85,7.0
+347,The Fabulous Baker Boys,"October 13, 1989", | R,85,tbd
+348,Fargo,"March 8, 1996", | R,85,8.7
+349,Street Fight,"February 22, 2006", | R,85,7.5
+350,Before the Devil Knows You're Dead,"October 26, 2007", | R,85,8.3
+351,Unforgiven,"August 7, 1992", | R,85,8.4
+352,Victim,"February 5, 1962", | Not Rated,85,tbd
+353,Get Out,"February 24, 2017", | R,85,7.4
+354,Love and Diane,"April 16, 2003", | R,85,tbd
+355,About Schmidt,"December 13, 2002", | R,85,7.5
+356,Domestic Violence,"January 30, 2002", | R,85,tbd
+357,Hero,"August 27, 2004", | PG-13,85,9.0
+358,"Hale County This Morning, This Evening","September 14, 2018", | Not Rated,85,6.1
+359,Neil Young: Heart of Gold,"February 10, 2006", | PG,85,8.5
+360,Mudbound,"November 17, 2017", | R,85,6.7
+361,My Life as a Zucchini,"February 24, 2017", | Not Rated,85,8.3
+362,The Silence of the Lambs,"February 13, 1991", | R,85,8.9
+363,Hedwig and the Angry Inch,"July 20, 2001", | R,85,8.4
+364,The Last Seduction,"October 26, 1994", | R,85,8.4
+365,The Conversation,"April 7, 1974", | PG,85,8.5
+366,God's Own Country,"October 25, 2017", | Not Rated,85,8.3
+367,Kaili Blues,"May 20, 2016", | Not Rated,85,7.4
+368,The Intruder,"December 23, 2005", | Not Rated,85,4.8
+369,Mulholland Dr.,"October 12, 2001", | R,85,7.1
+370,The Wages of Fear (1953),"December 9, 2011", | Not Rated,85,8.3
+371,Forbidden Lie$,"April 3, 2009", | Not Rated,85,8.0
+372,Behemoth,"January 27, 2017", | Not Rated,85,5.7
+373,The Sun,"November 20, 2009", | Not Rated,85,6.8
+374,The Past,"December 20, 2013", | PG-13,85,8.2
+375,One Child Nation,"August 9, 2019", | R,85,8.1
+376,Cinderella,"March 4, 1950", | Approved,85,7.7
+377,24 Hour Party People,"August 9, 2002", | TV-MA,85,8.9
+378,Nomad: In the Footsteps of Bruce Chatwin,"August 26, 2020", | Not Rated,85,tbd
+379,Atonement,"December 7, 2007", | R,85,7.9
+380,The Tree of Life,"May 27, 2011", | PG-13,85,7.0
+381,Alexandra,"March 26, 2008", | PG-13,85,7.3
+382,The Host,"March 9, 2007", | R,85,6.9
+383,The Departure,"October 13, 2017", | Not Rated,85,8.5
+384,Starless Dreams,"January 20, 2017", | Not Rated,85,tbd
+385,Restrepo,"June 25, 2010", | R,85,7.6
+386,Summer Hours,"May 15, 2009", | R,85,7.1
+387,Grisbi (re-release),"September 5, 2003", | R,85,8.5
+388,Out of Sight,"June 26, 1998", | R,85,8.5
+389,Women on the Verge of a Nervous Breakdown,"November 11, 1988", | R,85,8.2
+390,Support the Girls,"August 24, 2018", | Not Rated,85,6.8
+391,The Iron Giant,"August 6, 1999", | PG,85,8.8
+392,Won't You Be My Neighbor?,"June 8, 2018", | Not Rated,85,8.5
+393,Passing Strange,"August 21, 2009", | Not Rated,85,7.7
+394,Meek's Cutoff,"April 8, 2011", | PG,85,6.2
+395,Three Colors: Blue,"September 3, 1993", | R,85,8.9
+396,The Long Day Closes,"May 28, 1993", | PG,85,6.3
+397,Fruitvale Station,"July 12, 2013", | R,85,7.9
+398,Carrie,"November 16, 1976", | R,85,8.3
+399,Watchers of the Sky,"October 17, 2014", | Not Rated,85,tbd
+400,The Insider,"November 5, 1999", | R,84,8.7
+401,The Descendants,"November 16, 2011", | R,84,7.7
+402,First Man,"October 12, 2018", | PG-13,84,7.4
+403,The Terminator,"October 26, 1984", | R,84,7.5
+404,Cat on a Hot Tin Roof,"August 29, 1958", | TV-PG,84,tbd
+405,Snowpiercer,"June 27, 2014", | R,84,7.2
+406,Happy-Go-Lucky,"October 10, 2008", | R,84,8.0
+407,Lassie,"September 1, 2006", | PG,84,7.1
+408,Shrek,"May 18, 2001", | PG,84,8.8
+409,California Split,"August 1, 1974", | R,84,tbd
+410,Dave Chappelle's Block Party,"March 3, 2006", | R,84,7.4
+411,Victor Victoria,"March 19, 1982", | PG,84,7.9
+412,Our Time Machine,"September 11, 2020", | Not Rated,84,tbd
+413,The Quiet American,"November 22, 2002", | TV-MA,84,8.7
+414,The Pinochet Case,"September 11, 2002", | TV-MA,84,8.1
+415,The Day I Became a Woman,"April 6, 2001", | TV-MA,84,6.2
+416,Sense and Sensibility,"December 13, 1995", | PG,84,8.3
+417,Weiner,"May 20, 2016", | R,84,7.3
+418,Stalag 17,"June 6, 1953", | TV-PG,84,7.6
+419,Iraq in Fragments,"November 10, 2006", | TV-PG,84,6.7
+420,The Cove,"July 31, 2009", | PG-13,84,8.2
+421,Rocco and His Brothers (re-release),"July 5, 2002", | Approved,84,7.6
+422,Mutual Appreciation,"September 1, 2006", | Unrated,84,6.1
+423,The Waiting Room,"September 28, 2012", | Not Rated,84,tbd
+424,Stray Dogs,"September 12, 2014", | Not Rated,84,6.3
+425,13 Assassins,"April 29, 2011", | R,84,7.9
+426,Dracula: Pages from a Virgin's Diary,"May 14, 2003", | R,84,5.8
+427,Together,"August 24, 2001", | R,84,7.8
+428,Boxing Gym,"October 22, 2010", | R,83,tbd
+429,Guy and Madeline on a Park Bench,"November 5, 2010", | R,83,6.4
+430,Crazy Heart,"December 16, 2009", | R,83,7.5
+431,The Fool,"September 16, 2015", | Not Rated,83,8.1
+432,Everybody Wants Some!!,"March 30, 2016", | R,83,7.0
+433,De Palma,"June 10, 2016", | R,83,7.8
+434,A Little Princess,"May 20, 1995", | G,83,7.5
+435,The Last Black Man in San Francisco,"June 7, 2019", | Not Rated,83,7.3
+436,Night of the Kings,TBA, | Not Rated,83,tbd
+437,Custody,"June 29, 2018", | Not Rated,83,7.4
+438,Under the Shadow,"October 7, 2016", | Not Rated,83,7.7
+439,Adaptation.,"December 6, 2002", | R,83,8.2
+440,Fighter,"August 24, 2001", | R,83,8.5
+441,Baby Doll,"December 29, 1956", | Approved,83,tbd
+442,The Snapper,"December 3, 1993", | R,83,tbd
+443,Avatar,"December 18, 2009", | PG-13,83,7.5
+444,The Forbidden Room,"October 7, 2015", | Not Rated,83,8.0
+445,My Dinner with Andre,"October 11, 1981", | PG,83,tbd
+446,Network,"November 14, 1976", | R,83,8.7
+447,An American in Paris,"November 11, 1951", | Passed,83,5.5
+448,The Secret of the Grain,"December 24, 2008", | Unrated,83,7.4
+449,Trainspotting,"July 19, 1996", | R,83,8.7
+450,Welcome to the Dollhouse,"March 22, 1996", | R,83,8.1
+451,The Graduate,"December 21, 1967", | PG,83,7.4
+452,The Ground Beneath My Feet,"July 26, 2019", | Not Rated,83,tbd
+453,Horse Feathers,"August 19, 1932", | Passed,83,tbd
+454,Fantastic Mr. Fox,"November 13, 2009", | PG,83,8.3
+455,In the Loop,"July 24, 2009", | PG,83,7.9
+456,Bus 174,"October 8, 2003", | R,83,7.6
+457,Osama,"February 6, 2004", | PG-13,83,6.3
+458,Amores Perros,"March 30, 2001", | R,83,5.3
+459,The Gleaners & I,"March 7, 2001", | R,83,9.0
+460,Apples,TBA, | Not Rated,83,tbd
+461,The Salt of the Earth,"March 27, 2015", | PG-13,83,8.3
+462,Glory,"April 12, 2017", | Not Rated,83,7.0
+463,Rat Film,"September 15, 2017", | Not Rated,83,5.3
+464,One Flew Over the Cuckoo's Nest,"November 19, 1975", | R,83,8.8
+465,Office,"September 18, 2015", | Not Rated,83,6.0
+466,Being There,"December 19, 1979", | TV-PG,83,8.0
+467,Chop Shop,"February 27, 2008", | Unrated,83,7.7
+468,Kiki's Delivery Service,"July 29, 1989", | G,83,8.6
+469,Once Upon a Time ... in Hollywood,"July 26, 2019", | R,83,7.5
+470,Raising Victor Vargas,"March 28, 2003", | R,83,6.3
+471,Who Framed Roger Rabbit,"June 21, 1988", | PG,83,8.8
+472,42nd Street,"March 11, 1933", | Passed,83,tbd
+473,The Cave,"October 18, 2019", | PG-13,83,7.0
+474,'71,"February 27, 2015", | R,83,7.5
+475,The Guilty,"October 19, 2018", | Not Rated,83,8.1
+476,Blackfish,"July 19, 2013", | PG-13,83,8.2
+477,The Witch,"February 19, 2016", | R,83,7.3
+478,Juliet of the Spirits (re-release),"May 18, 2001", | R,83,7.4
+479,I Wish I Knew,"January 24, 2020", | Not Rated,83,tbd
+480,Corpse Bride,"September 16, 2005", | PG,83,7.9
+481,Project Nim,"July 8, 2011", | Not Rated,83,7.5
+482,The Wind Rises,"November 8, 2013", | PG-13,83,8.3
+483,Neil Young Trunk Show,"March 19, 2010", | PG-13,83,tbd
+484,The Lighthouse,"October 18, 2019", | Not Rated,83,8.0
+485,Spider-Man 2,"June 30, 2004", | PG-13,83,8.7
+486,True Grit,"June 11, 1969", | M,83,tbd
+487,Saint Frances,"February 28, 2020", | Not Rated,83,7.3
+488,20 Feet from Stardom,"June 14, 2013", | PG-13,83,7.4
+489,When We Were Kings,"October 25, 1996", | PG,83,8.9
+490,Kurt Cobain: Montage of Heck,"April 24, 2015", | TV-MA,83,7.8
+491,20th Century Women,"December 28, 2016", | R,83,7.4
+492,My Name Is Albert Ayler,"November 8, 2007", | Not Rated,83,tbd
+493,Paranoid Park,"March 7, 2008", | R,83,6.6
+494,Pina,"December 23, 2011", | PG,83,7.2
+495,Animal Kingdom,"August 13, 2010", | R,83,7.8
+496,La Camioneta: The Journey of One American School Bus,"May 31, 2013", | Not Rated,83,tbd
+497,Rosie,"July 19, 2019", | PG-13,83,6.3
+498,A Room with a View,"April 1, 1986", | R,83,8.2
+499,Hugo ,"November 23, 2011", | PG,83,7.7
